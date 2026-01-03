@@ -25,14 +25,6 @@ Japan Tobacco International, TUV Italy.
 
 ***
 
-## Projects
-
-**TBD**
-
-* ...
-
-***
-
 ## Skills
 
 * Web services, cloud architectures and protocols
