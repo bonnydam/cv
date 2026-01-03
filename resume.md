@@ -13,10 +13,15 @@ Bergamo, IT | July 2018 – Present | 7 years 6 months
 * Introduced and drives the engineering of testing and test automation frameworks for IoT doorbell devices, home automation and security systems, web platforms, mobile applications and cloud services.
 * Managed junior and foreign collaborators, planning daily tasks and defining long term growth training programs.
 
-**Digital Marketing Specialist at Growth Solutions**
+**IT Consultant at Hewlett Packard / DXC Technology**
 Cernusco sul Naviglio, IT | March 2013 – July 2018 | 5 years 5 months
 
-* ...
+* Designed and developed software architectures to integrate web and mobile apps
+with customers backend services and databases.
+* Realized microservices-based applications with Aeroporti di Roma, focused on indoor geolocation functionalities, routes calculations for passengers and proximity push notifications.
+* Managed local and remote development teams, the customer relationship, the
+working methodologies and technical innovations. Main customers: Tod’s SpA,
+Japan Tobacco International, TUV Italy.
 
 ***
 
