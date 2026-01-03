@@ -34,6 +34,14 @@ Japan Tobacco International, TUV Italy.
 
 ***
 
+## Languages
+
+**Italian**
+Native
+
+**English**
+Proficient spoken and writtem
+
 ## Education
 
 **Computer Engineering master’s degree**
