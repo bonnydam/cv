@@ -40,7 +40,7 @@ Japan Tobacco International, TUV Italy.
 Native
 
 **English**
-Proficient spoken and writtem
+Proficient spoken and written
 
 ## Education
 
