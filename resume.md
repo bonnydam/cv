@@ -46,3 +46,14 @@ Japan Tobacco International, TUV Italy.
 
 **Computer Engineering master’s degree**
 Politecnico di Milano, 2012
+
+## Certifications
+
+**ISTQB Foundation level**
+ISTQB, 2025
+
+**Professional Association of Engineers enrollment**
+Brescia, 2018
+
+**Spring Source Professional**
+Pivotal, 2016
