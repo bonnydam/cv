@@ -32,7 +32,7 @@ Japan Tobacco International, TUV Italy.
 
 ***
 
-## Technical Skills
+## Technical skills
 
 * Web services, cloud architectures and protocols
 * Software design, data modeling, programming and scripting
