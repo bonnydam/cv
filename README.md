@@ -3,6 +3,12 @@
 **Information Technology Engineer**
 Brescia, IT | damiano.bonetti.ing@gmail.com | +39 328-084-1189 | ([Linkedin](https://it.linkedin.com/in/damiano-bonetti-b2a2a459))
 
+Damiano is a 39 years old Computer Engineer from Italy, Brescia. Since 2018 he works for Comelit Group S.p.A. with the role of Quality Assurance Software Engineer. Before joining Comelit he worked for Hewlett Packard as IT Consultant.
+
+Damiano graduated in Computer Engineering, Master of Science from Politecnico
+di Milano (2012).
+He is part of the Professional Association of Engineers of the Province of Brescia.
+
 ***
 
 ## Experience
