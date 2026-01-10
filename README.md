@@ -21,7 +21,7 @@ Bergamo, IT | July 2018 – Present
 * Manages junior and foreign collaborators, planning daily tasks and defining long term growth training programs.
 
 **IT Consultant at Hewlett Packard / DXC Technology**
-Cernusco sul Naviglio, IT | March 2013 – July 2018 | 5 years and 5 months
+Cernusco sul Naviglio, IT | March 2013 – July 2018 | 5 years 5 months
 
 * Designed and developed software architectures to integrate web and mobile apps
 with customers backend services and databases.
