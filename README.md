@@ -56,7 +56,7 @@ Politecnico di Milano, 2012
 
 ## Certifications
 
-**ISTQB Certified Tester Foundation level**
+**Certified Tester Foundation level**
 ISTQB, 2025
 
 **Professional Association of Engineers**
