@@ -11,7 +11,7 @@ Brescia, IT | damiano.bonetti.ing@gmail.com | +39 328-084-1189 | ([Linkedin](htt
 Bergamo, IT | July 2018 – Present
 
 * Introduced and drives the engineering of testing and test automation frameworks for IoT doorbell devices, home automation and security systems, web platforms, mobile applications and cloud services.
-* Defines the testing strategies, improves the quality and the speed of the software lifecycle processes. He tracks the issues and he sets with product owners the projects milestones.
+* Defines the testing strategies, tracks the issues and sets with product owners the projects milestones. He improves the quality and the speed of the software lifecycle processes. 
 * Manages junior and foreign collaborators, planning daily tasks and defining long term growth training programs.
 
 **IT Consultant at Hewlett Packard / DXC Technology**
@@ -26,12 +26,18 @@ Japan Tobacco International, TUV Italy.
 
 ***
 
-## Skills
+## Technical Skills
 
 * Web services, cloud architectures and protocols
 * Software design, data modeling, programming and scripting
 * Quality assurance, requirements analysis, testing, issues tracking, processes optimization
 * Project management methodologies, estimation techniques, activities tracking, risks assessment
+
+## Soft skills
+* Time management
+* Communication and empathy
+* Mentoring
+* Integrity
 
 ***
 
