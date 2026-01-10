@@ -11,10 +11,11 @@ Brescia, IT | damiano.bonetti.ing@gmail.com | +39 328-084-1189 | ([Linkedin](htt
 Bergamo, IT | July 2018 – Present
 
 * Introduced and drives the engineering of testing and test automation frameworks for IoT doorbell devices, home automation and security systems, web platforms, mobile applications and cloud services.
+* Defines the testing strategies, improves the quality and the speed of the software lifecycle processes. He tracks the issues and he sets with product owners the projects milestones.
 * Manages junior and foreign collaborators, planning daily tasks and defining long term growth training programs.
 
 **IT Consultant at Hewlett Packard / DXC Technology**
-Cernusco sul Naviglio, IT | March 2013 – July 2018
+Cernusco sul Naviglio, IT | March 2013 – July 2018 | 5 years and 5 months
 
 * Designed and developed software architectures to integrate web and mobile apps
 with customers backend services and databases.
@@ -49,11 +50,17 @@ Politecnico di Milano, 2012
 
 ## Certifications
 
-**ISTQB Foundation level**
+**ISTQB Certified Tester Foundation level**
 ISTQB, 2025
 
-**Professional Association of Engineers enrollment**
+**Professional Association of Engineers**
 Brescia, 2018
 
 **Spring Source Professional**
 Pivotal, 2016
+
+## Personal interests
+
+* Sports, both practiced and watched
+* Computers and tech
+* Finance, value investing
