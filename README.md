@@ -49,27 +49,18 @@ Japan Tobacco International, TUV Italy.
 
 ## Languages
 
-**Italian**
-Native
-
-**English**
-Proficient spoken and written
+* **Italian**, native
+* **English**, proficient spoken and written
 
 ## Education
 
-**Computer Engineering master’s degree**
-Politecnico di Milano, 2012
+* **Computer Engineering master’s degree**, Politecnico di Milano, 2012
 
 ## Certifications
 
-**Certified Tester Foundation level**
-ISTQB, 2025
-
-**Professional Association of Engineers**
-Brescia, 2018
-
-**Spring Source Professional**
-Pivotal, 2016
+* **Certified Tester Foundation level**, ISTQB, 2025
+* **Professional Association of Engineers**, Brescia, 2018
+* **Spring Source Professional**, Pivotal, 2016
 
 ## Personal interests
 
